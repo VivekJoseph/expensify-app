@@ -2383,9 +2383,9 @@ handle-thing@^1.2.5:
   version "1.2.5"
   resolved "https://registry.yarnpkg.com/handle-thing/-/handle-thing-1.2.5.tgz#fd7aad726bf1a5fd16dfc29b2f7a6601d27139c4"
 
-handlebars@^4.0.3:
-  version "4.0.10"
-  resolved "https://registry.yarnpkg.com/handlebars/-/handlebars-4.0.10.tgz#3d30c718b09a3d96f23ea4cc1f403c4d3ba9ff4f"
+handlebars@^4.0.14:
+  version "4.0.14"
+  resolved "https://registry.yarnpkg.com/handlebars/-/handlebars-4.0.14.tgz#3d30c718b09a3d96f23ea4cc1f403c4d3ba9ff4f"
   dependencies:
     async "^1.4.0"
     optimist "^0.6.1"
@@ -2918,7 +2918,7 @@ istanbul-reports@^1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/istanbul-reports/-/istanbul-reports-1.1.1.tgz#042be5c89e175bc3f86523caab29c014e77fee4e"
   dependencies:
-    handlebars "^4.0.3"
+    handlebars "^4.0.14"
 
 jest-changed-files@^20.0.3:
   version "20.0.3"
@@ -3654,7 +3654,7 @@ node-gyp@^3.3.1:
     request "2"
     rimraf "2"
     semver "~5.3.0"
-    tar "^2.0.0"
+    tar "^2.2.2"
     which "1"
 
 node-int64@^0.4.0:
@@ -3709,7 +3709,7 @@ node-pre-gyp@^0.6.36:
     request "^2.81.0"
     rimraf "^2.6.1"
     semver "^5.3.0"
-    tar "^2.2.1"
+    tar "^2.2.2"
     tar-pack "^3.4.0"
 
 node-sass@4.5.3:
@@ -5215,12 +5215,12 @@ tar-pack@^3.4.0:
     once "^1.3.3"
     readable-stream "^2.1.4"
     rimraf "^2.5.1"
-    tar "^2.2.1"
+    tar "^2.2.2"
     uid-number "^0.0.6"
 
-tar@^2.0.0, tar@^2.2.1:
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/tar/-/tar-2.2.1.tgz#8e4d2a256c0e2185c6b18ad694aec968b83cb1d1"
+tar@^2.2.2, tar@^2.2.2:
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/tar/-/tar-2.2.2.tgz#8e4d2a256c0e2185c6b18ad694aec968b83cb1d1"
   dependencies:
     block-stream "*"
     fstream "^1.0.2"
